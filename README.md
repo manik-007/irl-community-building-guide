@@ -36,8 +36,8 @@
 5. Best communities to associate with.
 
 ## Community corner
-1. Community Listings.
-2. Stories of community folks.
+1. Community Listings - list your community here.
+2. Inspiring stories of community folks.
 
 ## Note
 Share your valuable & constructive feedback here to make this a better guide for all.
